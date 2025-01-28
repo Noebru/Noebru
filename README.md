@@ -1,16 +1,15 @@
-## Hi there 👋
+ # *HOLA, SOY NOELIA!*
+ 
+ ## 👩‍💻 Estudiante de Ingeniería Informática | 👩‍⚕️ Enfermera Onco-Hematológica  
 
-<!--
-**Noebru/Noebru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 *Apasionada por la tecnología y el aprendizaje continuo*  
 
-Here are some ideas to get you started:
+📚 Siempre explorando nuevos conocimientos a través de videos, artículos y recursos en línea.  
+🌍 <ins>Me esfuerzo por mantenerme actualizada en el mundo tech</ins> y aplicar mis habilidades en proyectos innovadores.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💪 *Habilidades clave*  
+- Precisión  
+- Trabajo en equipo  
+- Adaptabilidad  
+
+🚀 *En constante evolución y lista para nuevos desafíos*.  
